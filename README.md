@@ -6,7 +6,7 @@ A cherry blossom petals animation for the terminal.
 
 ## Demo
 
-https://github.com/user-attachments/assets/a6b6df59-cce6-4ad8-9d59-39e9d041aa8d
+https://github.com/user-attachments/assets/f23e070a-b299-47f8-82e5-a8e9a56cea87
 
 
 ## Usage/Examples
