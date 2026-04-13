@@ -1,7 +1,6 @@
 
 # Sakura
-
-A cherry blossom petals animation for the terminal.
+A terminal cherry blossom animation.
 
 
 ## Demo
